@@ -31,4 +31,3 @@ _putchar(product + 48);
 }
 _putchar('\n');
 }
-
