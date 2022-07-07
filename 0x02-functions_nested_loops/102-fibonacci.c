@@ -18,7 +18,8 @@ for (i = 0; i < n; i++)
 if (i == 49)
 {
 printf("%lu", f1);
-} else
+}
+else
 {
 printf("%lu, ", f1);
 next = f1 + f2;
