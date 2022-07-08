@@ -1,4 +1,4 @@
-<<xx
+
 #include "main.h"
 
 /**
