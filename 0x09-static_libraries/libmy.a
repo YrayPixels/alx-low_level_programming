@@ -1,1 +1,5 @@
 0-issuper.o 
+#!/bin/bash
+0-issuper.o 
+0-memset.o 
+0-strcat.o 
